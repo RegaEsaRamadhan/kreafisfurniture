@@ -72,7 +72,7 @@ button { font: inherit; }
 .feature-band { display: grid; grid-template-columns: 1fr 1fr; background: var(--olive-dark); color: white; }
 .feature-image {
     min-height: 680px;
-    background: #777 url("foto/kamar1.png") center/cover no-repeat;
+    background: #777 url("kamar1.png") center/cover no-repeat;
 }
 .feature-content { align-self: center; padding: 80px clamp(32px, 7vw, 105px); }
 .feature-content .section-label { color: #d1b58d; }
